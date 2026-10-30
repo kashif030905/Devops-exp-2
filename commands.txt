@@ -1,0 +1,11 @@
+EXPERIMENT 2: GIT AND GITHUB COMMANDS
+
+1. git --version  - Check Git version
+2. git init       - Initialize a repository
+3. git status     - Check repository status
+4. git add        - Stage files for commit
+5. git branch branch-name
+   Creates a new branch.
+
+6. git switch branch-name
+   Switches to an existing branch.
